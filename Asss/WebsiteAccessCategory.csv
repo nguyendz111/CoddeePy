@@ -1,0 +1,201 @@
+AccessID,CustomerID,ProductID,AccessDate,CategoryViewed,TimeSpent,DeviceUsed,EntryPage,ExitPage,Geolocation,BrowserUsed
+1,74,156,2024-06-10,Cameras,1.83,Desktop,https://jennings-bowman.com/,http://www.porter.biz/,Lake Melissa,Firefox
+2,20,177,2024-07-03,Televisions,6.56,Desktop,http://www.smith.org/,http://harper.com/,Andrewmouth,Safari
+3,25,149,2023-11-09,Cameras,9.05,Mobile,http://wilson.info/,http://mckinney-arias.info/,Reginaldtown,Safari
+4,74,145,2024-03-20,Mobile Devices,6.82,Tablet,https://herring-kemp.info/,https://murphy-smith.com/,Kerrytown,Firefox
+5,140,130,2023-11-10,Audio Equipment,3.99,Desktop,http://hanson.com/,https://www.oliver-alvarez.info/,New Rebeccaborough,Safari
+6,15,101,2023-09-18,Audio Equipment,2.77,Tablet,http://mann.com/,https://mitchell.com/,Christineville,Firefox
+7,63,181,2024-05-19,Audio Equipment,16.68,Mobile,http://johnson-harvey.com/,http://garrison-lewis.com/,Tiffanyburgh,Safari
+8,170,169,2024-03-15,Computers,15.51,Mobile,https://smith.com/,http://www.smith.com/,Lake Richardview,Chrome
+9,156,171,2024-04-12,Computers,12.4,Desktop,http://baker-thompson.com/,https://www.duran-taylor.com/,Robleston,Firefox
+10,25,159,2023-09-17,Mobile Devices,4.98,Mobile,https://short.com/,https://www.williams-flores.com/,West John,Safari
+11,104,101,2024-01-23,Audio Equipment,15.16,Tablet,https://www.smith.com/,https://lopez-howe.com/,Bowmanshire,Chrome
+12,175,141,2024-05-07,Cameras,3.16,Mobile,http://lambert.com/,https://www.oneill.biz/,Smithview,Chrome
+13,51,177,2024-04-16,Mobile Devices,10.53,Desktop,https://brown-powell.net/,http://www.brown-nguyen.org/,East Jennifer,Chrome
+14,139,141,2024-02-28,Televisions,9.53,Tablet,http://rivera.com/,https://www.soto-howell.com/,Lawrenceport,Firefox
+15,37,109,2023-10-28,Televisions,1.73,Desktop,http://leblanc.com/,http://www.lopez-simmons.com/,Greenhaven,Chrome
+16,66,107,2024-02-11,Televisions,0.74,Tablet,http://wood.com/,http://www.smith.com/,Port Sarah,Safari
+17,6,167,2023-12-31,Audio Equipment,8.69,Mobile,http://richardson-arroyo.com/,https://www.knight.com/,North Stephenstad,Safari
+18,98,180,2023-11-18,Computers,9.3,Desktop,https://taylor.biz/,http://barajas-hancock.com/,Port Steve,Safari
+19,183,127,2024-03-24,Cameras,14.39,Mobile,https://www.davis-mason.com/,https://macias-perry.com/,West Carlos,Chrome
+20,124,160,2024-06-27,Computers,10.67,Tablet,http://www.wright-cook.com/,https://www.freeman-benitez.com/,East Jenniferstad,Safari
+21,181,142,2023-09-24,Televisions,7.07,Mobile,https://moore.com/,https://www.powers-crawford.info/,Port Lisa,Chrome
+22,137,113,2023-12-24,Audio Equipment,3.95,Mobile,https://riley.biz/,https://fox.com/,Ryanmouth,Chrome
+23,46,158,2024-06-21,Cameras,6.63,Desktop,http://andersen.com/,https://baker.com/,Heatherborough,Safari
+24,172,164,2024-06-19,Mobile Devices,8.39,Tablet,http://www.murphy-roberts.com/,http://potter.biz/,South Kara,Safari
+25,61,192,2023-11-12,Mobile Devices,15.69,Desktop,https://www.castro-barr.com/,http://www.nixon.net/,Port Yvonne,Chrome
+26,183,153,2024-07-06,Audio Equipment,1.2,Mobile,https://ortega.com/,https://cook.com/,Lewistown,Firefox
+27,136,194,2023-12-18,Audio Equipment,7.04,Desktop,http://www.thomas-irwin.com/,https://decker.com/,Kevinside,Firefox
+28,124,131,2024-04-25,Mobile Devices,5.63,Tablet,https://freeman.net/,http://hernandez.com/,West Marissastad,Firefox
+29,108,185,2024-07-08,Cameras,12.46,Tablet,http://stuart-fletcher.com/,http://www.schmidt-flores.com/,Jesuston,Firefox
+30,79,159,2024-06-09,Televisions,10.56,Tablet,http://www.nelson.com/,http://www.hudson.com/,Brownberg,Chrome
+31,137,174,2024-01-12,Mobile Devices,10.25,Mobile,http://white.org/,http://www.williams-lam.com/,Mossborough,Chrome
+32,64,149,2023-08-25,Audio Equipment,0.9,Tablet,http://green-adams.com/,https://franklin-smith.com/,Samuelton,Chrome
+33,136,197,2024-07-03,Audio Equipment,11.26,Mobile,http://www.reyes.org/,https://scott-sandoval.com/,Pachecoland,Firefox
+34,176,179,2024-07-14,Computers,9.58,Mobile,http://www.nelson.com/,https://barrett.com/,Williamton,Firefox
+35,111,121,2024-05-01,Mobile Devices,10.73,Tablet,https://www.mccoy.com/,https://www.howell-johnson.com/,Jenniferberg,Firefox
+36,13,166,2023-10-11,Televisions,19.23,Tablet,https://bray.com/,https://walker-gonzalez.com/,East Charles,Safari
+37,150,153,2024-01-01,Mobile Devices,3.57,Tablet,http://www.shannon.net/,http://www.jimenez.net/,North Janetfurt,Safari
+38,63,191,2024-03-28,Cameras,12.74,Desktop,http://www.johnson-vaughn.info/,http://taylor-lang.biz/,Henryton,Chrome
+39,45,134,2024-01-26,Computers,10.58,Desktop,http://www.caldwell.com/,https://foley.biz/,New Samantha,Chrome
+40,15,181,2024-01-08,Cameras,5.8,Mobile,https://cummings.net/,https://hernandez.com/,Port Stephaniestad,Firefox
+41,74,103,2024-04-14,Televisions,5.25,Tablet,http://frye.com/,http://www.rojas.net/,Ryanstad,Chrome
+42,135,120,2024-08-17,Computers,3.86,Tablet,https://hobbs-peters.com/,http://www.garcia-kim.info/,Anthonytown,Chrome
+43,186,139,2024-07-25,Mobile Devices,1.29,Mobile,https://www.morris.com/,https://www.hughes.info/,New Bethany,Safari
+44,72,106,2023-11-26,Televisions,16.98,Desktop,https://rosario-sims.com/,https://www.thompson.info/,Oscarport,Safari
+45,48,198,2024-04-05,Cameras,7.36,Desktop,https://www.jones.com/,http://www.romero.com/,West Christina,Chrome
+46,157,179,2023-09-25,Televisions,9.74,Desktop,https://www.smith-campbell.com/,http://www.turner-martin.org/,West Derek,Safari
+47,172,157,2023-08-27,Computers,14.86,Tablet,https://www.ellison.com/,http://www.johnson.com/,West Hollyfurt,Chrome
+48,72,185,2024-05-30,Computers,19.19,Mobile,https://fox.com/,https://shaffer.com/,North Zachary,Chrome
+49,27,173,2024-04-16,Mobile Devices,6.72,Desktop,https://bennett-williams.com/,http://www.johnson-davenport.com/,East Timothy,Safari
+50,75,168,2024-07-17,Mobile Devices,10.2,Mobile,http://www.craig.biz/,http://www.wright-brown.com/,Davidview,Firefox
+51,69,160,2024-03-15,Mobile Devices,16.52,Tablet,https://www.proctor-duran.net/,http://love.info/,South James,Chrome
+52,184,119,2024-02-26,Televisions,17.85,Desktop,http://watkins.com/,https://hawkins.com/,North Barrystad,Firefox
+53,75,144,2024-04-29,Mobile Devices,7.16,Tablet,https://www.chavez.com/,http://www.anderson-woods.com/,West Tanyaport,Safari
+54,121,161,2023-09-07,Computers,12.85,Tablet,http://www.carrillo.info/,https://www.hernandez.biz/,Port James,Safari
+55,175,137,2024-05-07,Televisions,5.17,Tablet,http://hutchinson-campbell.com/,http://gould-rojas.com/,Dwaynechester,Chrome
+56,199,105,2023-09-12,Audio Equipment,3.44,Tablet,https://www.henderson.info/,http://www.buchanan.biz/,Port Claire,Safari
+57,183,142,2024-07-28,Cameras,10.09,Tablet,http://www.harris.com/,https://harris.com/,North Nicoleport,Firefox
+58,200,153,2024-06-24,Cameras,17.49,Mobile,https://alexander.com/,https://mckinney.com/,New Angelaland,Firefox
+59,125,200,2023-08-24,Mobile Devices,0.67,Tablet,https://www.frye-martin.com/,https://wise.biz/,New Kelsey,Firefox
+60,43,113,2024-07-10,Cameras,2.07,Tablet,https://palmer.com/,https://burke-johnson.com/,Erikamouth,Safari
+61,144,121,2023-09-16,Computers,2.44,Tablet,http://moore.com/,http://brennan.org/,Bryantmouth,Safari
+62,159,129,2024-06-11,Audio Equipment,0.94,Tablet,https://www.simmons.org/,http://williams.net/,North Chad,Firefox
+63,42,151,2023-10-20,Mobile Devices,11.63,Tablet,https://www.clark.net/,http://young-taylor.com/,North Lauraberg,Firefox
+64,117,197,2023-09-04,Televisions,10.33,Desktop,http://www.carpenter.com/,http://www.anderson.com/,Lake Melissamouth,Firefox
+65,173,191,2024-01-24,Audio Equipment,18.19,Desktop,https://www.curtis.com/,http://cook-anderson.com/,Bradleyburgh,Firefox
+66,105,184,2024-05-23,Audio Equipment,2.95,Desktop,http://www.carter.com/,http://greene-vasquez.com/,Michaelville,Safari
+67,156,124,2024-03-01,Audio Equipment,7.77,Desktop,https://www.rivers.org/,https://www.morgan-gordon.com/,East Matthewfort,Firefox
+68,72,104,2023-11-06,Televisions,3.43,Tablet,http://www.wilson.com/,https://www.sellers.com/,Scottland,Firefox
+69,86,157,2024-06-11,Audio Equipment,12.37,Tablet,http://gonzales-edwards.com/,http://montoya-thomas.com/,South Shane,Chrome
+70,25,109,2024-05-15,Cameras,14.45,Mobile,https://www.osborne.com/,http://perez-klein.info/,Richardville,Safari
+71,161,106,2023-11-22,Computers,15.86,Tablet,https://martinez.net/,https://www.parks.com/,Lawsonville,Firefox
+72,155,109,2023-12-06,Computers,14.7,Desktop,http://www.ramos-newman.com/,http://www.morgan-chan.com/,Matthewport,Safari
+73,42,139,2023-09-03,Computers,3.33,Mobile,http://hernandez.com/,https://www.riley.biz/,Tammyfort,Firefox
+74,45,166,2024-04-01,Mobile Devices,1.46,Desktop,http://fuller-davis.info/,http://www.costa.org/,East Robert,Firefox
+75,130,168,2023-11-28,Computers,14.1,Desktop,https://www.love-mckinney.com/,http://clarke-lamb.biz/,Boydside,Firefox
+76,104,112,2024-04-14,Audio Equipment,3.97,Desktop,https://carter-gonzalez.org/,http://www.morgan-martin.org/,Dylanstad,Firefox
+77,160,146,2024-01-05,Cameras,15.46,Tablet,http://li.com/,https://www.rodgers.com/,Hollowayview,Safari
+78,10,181,2024-02-06,Cameras,14.12,Mobile,https://www.james.com/,http://wright.com/,Reneefort,Safari
+79,54,183,2024-06-25,Mobile Devices,1.27,Mobile,https://www.newman.com/,http://cervantes-ortiz.org/,East Jessicabury,Chrome
+80,143,105,2024-06-23,Cameras,2.9,Mobile,https://smith-foster.biz/,https://ali.com/,Brownburgh,Firefox
+81,104,148,2024-02-13,Mobile Devices,9.82,Tablet,https://torres-diaz.com/,https://www.black-mahoney.com/,Heathermouth,Safari
+82,138,168,2023-11-17,Mobile Devices,0.76,Desktop,https://powers-leon.com/,http://www.mendez.info/,Stantonview,Firefox
+83,17,197,2024-06-07,Televisions,3.74,Mobile,https://www.terry.com/,http://watkins.com/,Atkinsport,Safari
+84,38,163,2024-04-24,Audio Equipment,11.11,Desktop,http://whitaker.com/,https://www.little.org/,South Melissa,Firefox
+85,90,159,2024-01-30,Computers,6.8,Desktop,http://www.morris.com/,http://www.delgado-martinez.com/,Debbieton,Firefox
+86,177,183,2023-12-17,Audio Equipment,14.55,Tablet,http://anderson.com/,https://alexander.com/,East Gabriela,Safari
+87,194,170,2023-11-21,Computers,5.0,Desktop,https://www.knight.com/,http://www.jackson.com/,Andrewfurt,Chrome
+88,191,177,2024-06-08,Computers,18.97,Mobile,https://joseph-woods.com/,http://rivera.com/,New James,Chrome
+89,1,159,2023-11-25,Cameras,5.42,Desktop,http://ramos-hurley.com/,http://jackson.com/,Tracyport,Safari
+90,172,155,2024-04-21,Computers,8.59,Mobile,https://www.miller.com/,http://barber.com/,Port Alexisville,Firefox
+91,1,105,2024-03-30,Audio Equipment,16.41,Tablet,http://www.ferguson-parker.biz/,http://smith-stafford.com/,Reyesmouth,Firefox
+92,64,103,2023-11-27,Mobile Devices,11.55,Mobile,https://www.stephens.com/,https://www.collins-brown.com/,Brownstad,Firefox
+93,180,112,2023-11-03,Mobile Devices,17.32,Desktop,http://www.simpson.com/,http://www.hall-erickson.com/,Tylerfurt,Chrome
+94,59,179,2024-05-28,Mobile Devices,6.46,Desktop,http://www.sanchez.com/,https://www.gonzales-wright.org/,Marymouth,Safari
+95,1,113,2023-09-27,Audio Equipment,5.02,Desktop,https://www.yates.com/,http://www.rose.com/,Harrisonfurt,Chrome
+96,85,108,2023-09-14,Mobile Devices,1.63,Tablet,http://martin.com/,http://www.golden-brown.com/,Williammouth,Chrome
+97,129,158,2023-12-29,Televisions,15.17,Tablet,https://harrington-rose.info/,https://www.santos.biz/,New Kathleen,Firefox
+98,165,164,2024-02-05,Cameras,17.14,Tablet,https://www.brady-murphy.com/,https://cummings-morris.com/,Holmesfurt,Safari
+99,114,150,2023-12-04,Mobile Devices,15.77,Desktop,http://bright.com/,https://www.boyd-spencer.org/,New Timothyfurt,Chrome
+100,148,160,2024-03-01,Computers,2.67,Desktop,http://castaneda.net/,https://www.underwood.com/,New Dawn,Chrome
+101,152,117,2023-11-08,Televisions,3.83,Tablet,http://flynn.com/,http://pearson-bauer.net/,Larsenshire,Firefox
+102,71,193,2023-12-04,Computers,4.21,Tablet,https://colon.net/,https://robinson-potter.com/,Robinchester,Firefox
+103,93,119,2023-11-20,Audio Equipment,18.4,Mobile,https://www.anderson.com/,http://garrett.com/,Carlosport,Firefox
+104,132,102,2023-09-12,Cameras,0.57,Desktop,https://spencer-ellis.com/,https://powell-mckay.org/,Wardmouth,Firefox
+105,61,152,2024-04-18,Cameras,3.34,Desktop,http://jones.com/,https://www.harris.biz/,Tylerport,Firefox
+106,29,140,2023-09-16,Televisions,7.28,Tablet,http://www.casey-foster.com/,http://www.mills-thomas.com/,Smithshire,Firefox
+107,86,192,2023-10-14,Mobile Devices,1.53,Mobile,https://www.leach-vazquez.com/,https://chang.biz/,West Victoria,Chrome
+108,85,151,2024-07-22,Mobile Devices,10.26,Desktop,https://www.hammond.net/,https://www.white.net/,Dunnfort,Firefox
+109,164,168,2023-11-10,Televisions,5.99,Desktop,http://nichols.info/,http://lopez.org/,Maysburgh,Safari
+110,47,167,2024-04-05,Televisions,19.41,Mobile,https://hall-marshall.biz/,http://www.griffin-griffith.com/,Stephenchester,Firefox
+111,17,125,2024-04-28,Mobile Devices,19.52,Mobile,http://fletcher.com/,http://www.mccoy-morris.net/,Pattersonhaven,Firefox
+112,49,134,2024-06-06,Cameras,8.47,Desktop,http://jimenez-wallace.com/,https://castro.biz/,Yolandamouth,Firefox
+113,79,145,2024-08-08,Cameras,3.26,Mobile,http://mahoney.info/,https://moore.org/,Lake Erica,Safari
+114,133,111,2023-08-22,Audio Equipment,9.45,Mobile,http://wilson.com/,https://mann-martin.biz/,Butlerstad,Safari
+115,75,159,2023-09-11,Audio Equipment,0.89,Mobile,https://www.pena.com/,https://www.lawrence.com/,North Michaelshire,Chrome
+116,51,124,2024-03-28,Televisions,19.97,Mobile,https://coleman.com/,https://howard.net/,Kimland,Chrome
+117,192,103,2023-11-28,Mobile Devices,15.54,Tablet,http://ford.biz/,https://www.boyd.net/,New Christophermouth,Firefox
+118,28,170,2023-10-25,Computers,14.9,Mobile,http://rasmussen.com/,https://www.bryan.net/,North Jonathan,Firefox
+119,153,119,2024-06-02,Mobile Devices,1.47,Tablet,https://www.baird.info/,http://gonzalez.info/,Christopherland,Firefox
+120,77,197,2024-06-09,Televisions,12.17,Desktop,http://www.wilson.org/,https://www.graham-bennett.com/,Angelstad,Safari
+121,41,165,2024-04-18,Mobile Devices,1.06,Mobile,http://www.carpenter.biz/,https://nelson.com/,Weberchester,Firefox
+122,116,161,2024-05-29,Cameras,12.47,Desktop,https://www.medina.com/,https://morgan.com/,Williamport,Safari
+123,28,120,2024-08-08,Mobile Devices,10.44,Mobile,http://www.conway.com/,https://www.powell-ramsey.net/,Mackburgh,Safari
+124,50,190,2024-06-05,Televisions,17.1,Tablet,https://kennedy-sheppard.com/,https://www.jackson.net/,West Phillipchester,Safari
+125,10,129,2024-07-19,Computers,10.03,Tablet,http://booth.org/,https://keith.biz/,North Cheryl,Chrome
+126,44,164,2024-06-08,Mobile Devices,17.51,Desktop,https://armstrong.org/,https://www.riley-williams.com/,New Maryborough,Safari
+127,49,134,2024-06-27,Televisions,4.27,Mobile,https://www.figueroa.com/,https://www.coleman.org/,Cartermouth,Firefox
+128,53,186,2023-09-05,Cameras,1.71,Mobile,http://moran.com/,https://www.baird-diaz.com/,Harrisonbury,Chrome
+129,130,114,2024-02-17,Computers,17.35,Tablet,https://banks.net/,https://garza.org/,South Tiffanystad,Firefox
+130,116,148,2023-09-01,Computers,1.23,Desktop,http://www.taylor.net/,https://www.wilson-powell.com/,Emilyburgh,Firefox
+131,197,190,2024-08-13,Audio Equipment,8.45,Desktop,http://www.gonzales.biz/,https://www.miller.com/,Taylorfurt,Firefox
+132,83,198,2024-07-10,Mobile Devices,18.39,Desktop,https://clark.org/,https://www.johnson-joseph.biz/,Port Chad,Chrome
+133,31,192,2024-01-07,Mobile Devices,11.58,Desktop,https://lowe.com/,http://www.patel.com/,East Kimberly,Firefox
+134,15,175,2024-03-04,Audio Equipment,5.61,Desktop,https://james-scott.net/,http://www.jarvis.com/,East Elizabethland,Safari
+135,143,157,2024-02-06,Computers,4.19,Desktop,http://foster.com/,https://williams.org/,Vargaston,Safari
+136,120,114,2023-12-06,Televisions,13.06,Tablet,https://pena-hansen.com/,https://clark-mitchell.com/,Churchview,Firefox
+137,116,116,2023-09-25,Televisions,17.56,Desktop,http://www.mann.com/,http://www.bates.com/,Port Tammyshire,Chrome
+138,54,117,2023-12-24,Computers,8.32,Desktop,https://burton.com/,https://www.harris-marshall.biz/,Christensenmouth,Firefox
+139,24,153,2023-09-05,Televisions,18.94,Desktop,http://www.flores.com/,https://www.keith-espinoza.com/,North Jonathan,Chrome
+140,99,171,2024-03-07,Televisions,2.2,Desktop,http://www.flores.com/,http://www.frazier.com/,South Patrick,Firefox
+141,105,115,2023-12-26,Televisions,15.75,Tablet,http://ross.org/,https://www.holder.com/,Maxmouth,Safari
+142,115,162,2023-09-30,Televisions,19.78,Desktop,http://lee.com/,https://www.lopez.net/,Lake James,Firefox
+143,90,167,2024-01-02,Televisions,17.55,Tablet,http://www.wilkins-lopez.com/,http://singleton-hughes.com/,Lake Sethton,Chrome
+144,174,131,2023-11-11,Audio Equipment,19.33,Mobile,http://www.hartman-allen.org/,http://www.patel.com/,West Mary,Firefox
+145,45,128,2023-10-13,Televisions,6.97,Tablet,https://garrett.net/,http://calhoun-ward.org/,North Cassandrabury,Chrome
+146,29,147,2023-11-28,Computers,17.96,Tablet,https://www.lopez.com/,http://hodges.biz/,South Mary,Safari
+147,5,157,2023-11-07,Audio Equipment,17.96,Desktop,https://mccoy.com/,http://oneill.com/,South Jeffreymouth,Firefox
+148,167,138,2023-09-27,Audio Equipment,7.18,Desktop,http://www.castaneda.com/,http://www.carr.com/,West Gabriel,Safari
+149,126,137,2024-06-26,Mobile Devices,18.27,Tablet,https://hampton.com/,https://decker.biz/,West Lauraborough,Safari
+150,88,141,2023-08-22,Computers,17.82,Desktop,http://edwards.com/,https://www.steele.com/,West Patricia,Chrome
+151,129,114,2024-06-13,Televisions,9.38,Desktop,https://www.bailey.net/,http://www.bradley.com/,North Kathleen,Firefox
+152,185,135,2024-05-03,Audio Equipment,17.53,Mobile,http://www.french.org/,http://www.rogers-johnson.com/,Georgeside,Safari
+153,167,186,2024-05-07,Mobile Devices,6.61,Tablet,http://www.fritz.info/,http://www.mendoza.net/,East Michaelhaven,Safari
+154,136,123,2024-06-01,Audio Equipment,7.1,Mobile,https://moore.com/,https://www.estrada-swanson.com/,Chavezborough,Firefox
+155,196,138,2024-04-21,Computers,19.8,Mobile,http://www.shaw-rivas.com/,http://www.haley.org/,Brentmouth,Firefox
+156,30,148,2023-12-18,Mobile Devices,7.86,Tablet,http://www.cabrera-johnson.com/,https://stevens.biz/,South Carolyn,Firefox
+157,128,102,2023-09-21,Computers,19.64,Desktop,http://www.white-smith.com/,http://rodriguez.com/,Jefferytown,Firefox
+158,173,111,2024-05-08,Computers,6.86,Mobile,http://www.rivers-sanchez.com/,https://www.george.com/,Leechester,Safari
+159,97,144,2024-03-14,Cameras,15.22,Mobile,https://jones.org/,http://parrish.info/,Rodgerschester,Chrome
+160,181,170,2024-02-13,Televisions,19.12,Tablet,http://moses.net/,http://rice.info/,South Daniel,Chrome
+161,176,106,2024-01-06,Mobile Devices,5.53,Tablet,https://www.brown.com/,http://dawson.com/,Craigberg,Safari
+162,61,124,2024-03-31,Mobile Devices,16.65,Tablet,https://wright.com/,http://abbott.net/,Barbaraside,Chrome
+163,126,111,2024-08-09,Televisions,14.56,Desktop,https://www.padilla-wilkins.com/,https://www.schultz.net/,Destinyside,Safari
+164,166,119,2023-12-12,Computers,3.01,Desktop,http://nielsen-ramirez.com/,https://www.mcdonald.com/,Kellyburgh,Firefox
+165,96,166,2023-11-20,Computers,10.2,Tablet,http://mora-johnson.com/,http://hayes.info/,Loveton,Safari
+166,156,143,2023-11-02,Computers,14.91,Tablet,http://www.rubio.com/,http://www.campbell.com/,Lake Aaronport,Chrome
+167,137,139,2023-08-20,Computers,12.62,Mobile,https://www.owen.com/,https://dyer-davis.com/,Jensenberg,Firefox
+168,144,157,2024-07-03,Mobile Devices,15.15,Desktop,http://fletcher.com/,http://www.lee-leblanc.com/,South Molly,Chrome
+169,54,128,2024-08-11,Mobile Devices,4.76,Tablet,http://www.anderson.com/,http://cuevas-mendez.com/,Bryantside,Firefox
+170,32,133,2024-05-27,Mobile Devices,10.27,Tablet,https://www.moore-clark.org/,http://gaines.org/,Matthewfurt,Firefox
+171,84,196,2024-06-16,Televisions,10.69,Mobile,http://elliott.com/,https://www.bryant.com/,Heatherfort,Firefox
+172,83,175,2023-12-29,Mobile Devices,7.36,Mobile,https://www.james-lopez.com/,http://cox.com/,North Allison,Firefox
+173,150,159,2024-01-15,Computers,11.45,Mobile,http://www.grant.com/,http://www.taylor-ross.com/,Oconnorville,Chrome
+174,147,176,2024-03-23,Mobile Devices,8.58,Mobile,https://www.wright.net/,https://gregory.com/,Thompsonville,Chrome
+175,161,143,2024-02-14,Audio Equipment,15.08,Tablet,https://cooper-brown.net/,https://carter-ramos.biz/,Cannonfort,Chrome
+176,93,174,2024-01-13,Cameras,5.88,Tablet,https://www.williams.com/,http://walker.biz/,Erikview,Safari
+177,174,118,2024-02-02,Cameras,18.77,Mobile,https://thompson.com/,https://www.smith.org/,Kingmouth,Firefox
+178,21,191,2023-11-24,Cameras,3.36,Mobile,https://cortez-barr.info/,https://www.cooke.biz/,Terryshire,Chrome
+179,138,129,2024-05-15,Mobile Devices,10.27,Tablet,http://www.scott-henderson.com/,http://harvey-chavez.com/,North Anna,Safari
+180,83,175,2023-10-22,Computers,8.18,Tablet,https://diaz-pratt.com/,https://www.clark-oconnell.com/,West Ginaside,Firefox
+181,94,191,2024-02-18,Cameras,18.99,Mobile,https://www.wilson-smith.org/,https://www.nash.info/,Port Ericaberg,Safari
+182,50,102,2024-01-13,Mobile Devices,12.07,Tablet,https://thomas-singh.biz/,https://www.miller-baker.com/,East Rebeccachester,Safari
+183,93,198,2023-12-16,Audio Equipment,3.66,Desktop,https://miller.org/,https://www.johnson-garcia.com/,South Tanya,Safari
+184,84,188,2023-09-21,Audio Equipment,3.11,Tablet,http://www.baker.com/,https://bass.info/,Brianchester,Chrome
+185,149,168,2023-09-07,Mobile Devices,19.98,Mobile,https://ramirez-archer.biz/,https://www.taylor.net/,Port Christian,Chrome
+186,165,105,2023-12-29,Televisions,7.97,Mobile,http://dickson.com/,http://reilly-curtis.info/,West Joshua,Firefox
+187,139,125,2023-11-06,Televisions,5.6,Tablet,https://stein.net/,https://www.watts.com/,West Nicole,Chrome
+188,158,150,2023-10-06,Computers,7.44,Desktop,https://lloyd.net/,https://www.thompson-andrews.com/,New Sean,Chrome
+189,34,103,2024-03-16,Cameras,6.75,Tablet,http://www.smith.org/,https://www.gray.biz/,Burtonmouth,Chrome
+190,68,126,2024-02-05,Mobile Devices,17.54,Mobile,https://www.ray.org/,https://williams.com/,North Karenview,Chrome
+191,135,122,2024-07-05,Televisions,7.35,Tablet,http://villegas.com/,http://www.allen.biz/,West Brian,Firefox
+192,181,148,2023-12-02,Cameras,16.78,Tablet,http://www.stone.org/,https://www.mcguire.com/,East Travisbury,Chrome
+193,184,125,2023-10-11,Mobile Devices,10.9,Desktop,https://www.stewart-keller.org/,http://olson.com/,Port Brittany,Chrome
+194,67,166,2024-06-11,Computers,8.99,Mobile,http://www.jones.org/,https://www.flynn.com/,Williammouth,Chrome
+195,62,179,2024-06-18,Televisions,15.22,Mobile,http://gillespie.net/,http://www.williams.biz/,Lake Sheilamouth,Chrome
+196,28,137,2024-06-01,Computers,3.76,Mobile,http://jones.com/,https://hunt.info/,Port Erin,Firefox
+197,189,192,2023-08-24,Televisions,17.03,Mobile,https://www.norris-mcguire.net/,http://thornton.com/,Burnsfurt,Safari
+198,111,132,2023-11-29,Cameras,9.83,Mobile,http://www.nelson.com/,http://reynolds.com/,Mariaburgh,Safari
+199,142,104,2024-02-11,Televisions,3.34,Tablet,http://www.gray.com/,http://murphy.com/,Johnville,Safari
+200,60,133,2023-12-14,Televisions,5.52,Tablet,https://www.adams.com/,http://chen-tran.biz/,Cummingston,Safari
